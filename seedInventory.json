@@ -1,0 +1,90 @@
+[
+{
+  "_id": {
+    "$oid": "5e25294c1c9d4400007854b6"
+  },
+  "Latin name": "Chrysanthemum carinatum",
+  "Common name": "Coconut Ice",
+  "Source": "Park Seed",
+  "Origin": "England",
+  "Number of containers": "10",
+  "Date planted": "1/19/2020",
+  "Soil": "Promix organic veg and herb",
+  "Container type": "24 oz plastic cup with dome lid",
+  "First growth date": "",
+  "Seeds per container": "10",
+  "Germination rate": "",
+  "Success": "",
+  "Plant out date": "",
+  "Survive season": "",
+  "Return second season": "",
+  "Plant again": "",
+  "Tips": ""
+},
+{
+  "_id": {
+    "$oid": "5e252e021c9d4400007854b8"
+  },
+  "Latin name": "Centranthus ruber Coccineus",
+  "Common name": "Jupiter's Beard",
+  "Source": "Park Seed",
+  "Origin": "Holland",
+  "Number of containers": "10",
+  "Date planted": "1/19/2020",
+  "Soil": "Promix organic veg and herb",
+  "Container type": "24 oz plastic cup with dome lid",
+  "First growth date": "",
+  "Seeds per container": "10",
+  "Germination rate": "",
+  "Success": "",
+  "Plant out date": "",
+  "Survive season": "",
+  "Return second season": "",
+  "Plant again": "",
+  "Tips": ""
+},
+{
+  "_id": {
+    "$oid": "5e252e851c9d4400007854b9"
+  },
+  "Latin name": "Aster",
+  "Common name": "Astoria Mix",
+  "Source": "Park Seed",
+  "Origin": "Germany",
+  "Number of containers": "10",
+  "Date planted": "1/19/2020",
+  "Soil": "Promix organic veg and herb",
+  "Container type": "24 oz plastic cup with dome lid",
+  "First growth date": "",
+  "Seeds per container": "10",
+  "Germination rate": "",
+  "Success": "",
+  "Plant out date": "",
+  "Survive season": "",
+  "Return second season": "",
+  "Plant again": "",
+  "Tips": ""
+},
+{
+  "_id": {
+    "$oid": "5e252ed01c9d4400007854ba"
+  },
+  "Latin name": "",
+  "Common name": "Park's Drought Tolerant Flower Mix wildflowers",
+  "Source": "Park Seed",
+  "Origin": "CA",
+  "Number of containers": "10",
+  "Date planted": "1/19/2020",
+  "Soil": "Promix organic veg and herb",
+  "Container type": "24 oz plastic cup with dome lid",
+  "First growth date": "",
+  "Seeds per container": "20",
+  "Germination rate": "",
+  "Success": "",
+  "Plant out date": "",
+  "Survive season": "",
+  "Return second season": "",
+  "Plant again": "",
+  "Tips": ""
+}
+]
